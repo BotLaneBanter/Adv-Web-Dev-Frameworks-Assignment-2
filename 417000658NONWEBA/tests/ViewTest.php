@@ -1,5 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
+use QuwisSystem\Framework\View;
 require "config.php";
 require 'autoload.php';
 
